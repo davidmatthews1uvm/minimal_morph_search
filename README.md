@@ -24,4 +24,4 @@ Searches for robot morphologies using APFO and CPPN genotypes.
 * `mkdir run`
 * `cd run`
 * `python ../job.py <seed>`
-  * e.g. `python ../jobs.py 0`
+  * e.g. `python ../job.py 0`
